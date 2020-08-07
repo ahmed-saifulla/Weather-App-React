@@ -1,0 +1,9 @@
+.App{
+   display: flex;
+   justify-content: space-around;
+   padding: 10px;
+}
+
+.condition{
+    margin: 10px auto;
+}
